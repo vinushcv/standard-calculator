@@ -97,8 +97,12 @@ Publish the website in the given URL.
         </form>
     </body>
 </html>
+
 ```
 ## OUTPUT:
+![calc web](https://github.com/vinushcv/standard-calculator/assets/113975318/61cb0c9d-cf23-4631-8d4b-1e5eb3946fbd)
+
 
 ## Result:
+Therefore, a simple calculator is implemented successfully.
 
